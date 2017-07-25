@@ -33,7 +33,7 @@ There are a handful of common ways we want to organize data. Sometimes we want d
 1. What is the benefit of a linked list over an array?
 
 
-##Stacks
+## Stacks
 
 Stacks and queues are two commonly used data structures.  You can read about them below or watch [this video](https://www.youtube.com/watch?v=6QS_Cup1YoI). Note that all the operations mentioned in the video take O(1) time.
 
@@ -87,7 +87,7 @@ Stacks are "Last In, First Out" -- the last item pushed on top of a stack will b
 
 1. **Stretch:** How would you implement a stack with a fixed-size array?
 
-####Design Decisions
+#### Design Decisions
 
 Would you use a stack or a queue to...
 
